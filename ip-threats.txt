@@ -6,3 +6,4 @@
 92.63.0.0/16
 185.156.0.0/16
 151.43.182.49 # Added 2026-01-13 via IOC-check (AbuseIPDB: 66)
+37.77.163.14 # Added 2026-01-14 via IOC-check (AbuseIPDB: 64)
