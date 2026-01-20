@@ -12,3 +12,4 @@
 37.182.196.201 # Added 2026-01-15 via IOC-check (AbuseIPDB: 42)
 89.31.72.79 #Genesys per AIA
 89.31.75.86
+89.31.75.87
