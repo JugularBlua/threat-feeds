@@ -7,6 +7,6 @@
 151.43.182.49 # Added 2026-01-13 via IOC-check (AbuseIPDB: 66)
 37.77.163.14 # Added 2026-01-14 via IOC-check (AbuseIPDB: 64)
 37.182.196.201 # Added 2026-01-15 via IOC-check (AbuseIPDB: 42)
-89.31.75.86 # Genesys per AIA
-89.31.72.79 # Genesys per AIA
+# 89.31.75.86 # Genesys per AIA rimosso da AD in data 2026-01-21 ore 10:56 su ticket IR644304
+# 89.31.72.79 # Genesys per AIA rimosso da AD in data 2026-01-21 ore 10:56 su ticket IR644304
 151.43.100.101 # Added 2026-01-20 via IOC-check (AbuseIPDB: 29)
