@@ -458,3 +458,4 @@ cainutrizione-rh.ph
 cainutrizione-hr.ph
 coldirettishop.it
 coldirettishop.com
+workers.dev
