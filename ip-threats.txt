@@ -12,3 +12,4 @@
 151.43.100.101 # Added 2026-01-20 via IOC-check (AbuseIPDB: 29)
 151.44.147.177 # Added 2026-01-21 via IOC-check (AbuseIPDB: 34)
 151.43.198.130 # Added 2026-01-22 via IOC-check (AbuseIPDB: 35)
+151.43.123.168 # Added 2026-01-23 via IOC-check (AbuseIPDB: 39)
