@@ -22,3 +22,4 @@
 136.243.228.198 # Aggiunto 2026-01-30 da AD per tentativo di Brute Force su ticket IR648455
 136.243.228.195 # Aggiunto 2026-01-30 da AD per tentativo di Brute Force su ticket IR648455
 216.73.216.49 # Aggiunto 2026-01-30 da AD per tentativo di Brute Force su ticket IR648455
+151.46.200.180 # Added 2026-01-31 via IOC-check (AbuseIPDB: 32)
