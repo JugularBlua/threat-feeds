@@ -27,3 +27,4 @@
 151.47.9.0 # Added 2026-02-03 via IOC-check (AbuseIPDB: 32)
 151.47.175.53 # Added 2026-02-13 via IOC-check (AbuseIPDB: 25)
 151.43.164.183 # Added 2026-02-13 via IOC-check (AbuseIPDB: 42)
+88.214.25.123 # Aggiunto in data 2026-18-02 da AD per tentativo di Brute Force su ticket IR655331
