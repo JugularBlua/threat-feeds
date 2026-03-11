@@ -30,3 +30,4 @@
 88.214.25.123 # Aggiunto in data 2026-18-02 da AD per tentativo di Brute Force su ticket IR655331
 151.19.14.45 # Added 2026-02-19 via IOC-check (AbuseIPDB: 35)
 151.43.131.79 # Added 2026-03-02 via IOC-check (AbuseIPDB: 40)
+178.128.193.253 # Aggiunto in data 2026-11-03 da AD per connessione webrtc non riconosciuta su ticket IR655577
