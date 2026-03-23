@@ -33,3 +33,4 @@
 178.128.193.253 # Aggiunto in data 2026-11-03 da AD per connessione webrtc non riconosciuta su ticket IR655577
 151.47.201.104 # Added 2026-03-23 via IOC-check (AbuseIPDB: 27)
 151.47.201.104 # Added 2026-03-23 via IOC-check (AbuseIPDB: 27)
+151.44.221.56 # Added 2026-03-23 via IOC-check (AbuseIPDB: 31)
