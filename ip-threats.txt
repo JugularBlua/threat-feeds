@@ -34,3 +34,5 @@
 151.47.201.104 # Added 2026-03-23 via IOC-check (AbuseIPDB: 27)
 151.47.201.104 # Added 2026-03-23 via IOC-check (AbuseIPDB: 27)
 151.44.221.56 # Added 2026-03-23 via IOC-check (AbuseIPDB: 31)
+45.227.254.15 # Aggiunto in data 2026-03-24 da AD per brute force su AIA su ticket IR671170
+88.214.25.124 # Aggiunto in data 2026-03-24 da AD per brute force su AIA su ticket IR670456
