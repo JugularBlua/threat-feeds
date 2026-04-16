@@ -39,3 +39,4 @@
 178.20.210.190 # Aggiunto in data 2026-03-28 da AD per brute force su AIA su ticket IR672575
 151.19.107.192 # Added 2026-03-31 via IOC-check (AbuseIPDB: 87)
 188.214.34.20 # Aggiunto in data 2026-04-13 da AD come IOC di vulnerabilità CVE-2026-34621 Acrobat Reader sfruttato in campo
+169.40.2.68 # Aggiunto in data 2026-04-16 da AD come IOC di vulnerabilità CVE-2026-34621 Acrobat Reader sfruttato in campo (fonte ACN)
