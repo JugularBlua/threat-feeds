@@ -465,3 +465,4 @@ Bahdeadi.r.bh.d.sendibt3.com #21/04/2026 da AD
 kitchen-canvas.com #21/04/2026 da AD
 odlersadyas.click
 jimdosite.com
+env-check.daemontools.cc #inserito da AD in data 06/05/2026 come IOC per attacco supply chain Daemon Tools
