@@ -42,3 +42,8 @@
 169.40.2.68 # Aggiunto in data 2026-04-16 da AD come IOC di vulnerabilità CVE-2026-34621 Acrobat Reader sfruttato in campo (fonte ACN)
 151.19.135.59 # Added 2026-04-23 via IOC-check (AbuseIPDB: 28)
 45.91.20.121 # Added 2026-05-12 via IOC-check (AbuseIPDB: 54)
+192.166.246.154 # Aggiunto in data 2026-05-15 da AD come IOC di CSIRT ITA C24138 campagna Phishing
+43.130.127.39 # Aggiunto in data 2026-05-15 da AD come IOC di CSIRT ITA C24138 campagna Phishing
+185.81.127.171 # Aggiunto in data 2026-05-15 da AD come IOC di CSIRT ITA C24138 campagna Phishing
+212.15.87.100 # Aggiunto in data 2026-05-15 da AD come IOC di CSIRT ITA C24138 campagna Phishing
+
