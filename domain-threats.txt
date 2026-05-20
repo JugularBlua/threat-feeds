@@ -469,4 +469,5 @@ env-check.daemontools.cc                 #inserito da AD in data 06/05/2026 come
 document4.hexora.it.com                  #Aggiunto in data 2026-05-15 da AD come IOC di CSIRT ITA C24138 campagna Phishing
 documentcopy4.enhanceusersatisfaction.de #Aggiunto in data 2026-05-15 da AD come IOC di CSIRT ITA C24138 campagna Phishing
 mazaigroup.co.tz                         #Aggiunto in data 2026-05-15 da AD come IOC di CSIRT ITA C24138 campagna Phishing
+w0rld.info                               #IR695952
 core-drive-wvzc.p-xmnew9m7.workers.dev   #Aggiunto in data 2026-05-15 da AD come IOC di CSIRT ITA C24138 campagna Phishing
