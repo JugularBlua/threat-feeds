@@ -471,3 +471,4 @@ documentcopy4.enhanceusersatisfaction.de #Aggiunto in data 2026-05-15 da AD come
 mazaigroup.co.tz                         #Aggiunto in data 2026-05-15 da AD come IOC di CSIRT ITA C24138 campagna Phishing
 w0rld.info                               #IR695952
 core-drive-wvzc.p-xmnew9m7.workers.dev   #Aggiunto in data 2026-05-15 da AD come IOC di CSIRT ITA C24138 campagna Phishing
+www.italiachecambia.org                  #Aggiunto  in data 2026-05-25 da AD come sito potenzialmente malevolo (gia bloccato da EDR)
