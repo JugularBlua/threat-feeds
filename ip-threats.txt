@@ -48,3 +48,4 @@
 212.15.87.100 # Aggiunto in data 2026-05-15 da AD come IOC di CSIRT ITA C24138 campagna Phishing
 93.148.34.121 # Added 2026-05-19 via IOC-check (AbuseIPDB: 33)
 151.35.184.35 # Added 2026-06-09 via IOC-check (AbuseIPDB: 49)
+81.57.120.20 # Added 2026-07-23 via IOC-check (AbuseIPDB: 25)
