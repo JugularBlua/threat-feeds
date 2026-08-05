@@ -49,3 +49,9 @@
 93.148.34.121 # Added 2026-05-19 via IOC-check (AbuseIPDB: 33)
 151.35.184.35 # Added 2026-06-09 via IOC-check (AbuseIPDB: 49)
 81.57.120.20 # Added 2026-07-23 via IOC-check (AbuseIPDB: 25)
+173.249.252.200 # Aggiunto in data 2026-08-05 da AD come IOC di Sophos campagna N-Central
+87.249.138.34 # Aggiunto in data 2026-08-05 da AD come IOC di Sophos campagna N-Central
+37.19.210.32 # Aggiunto in data 2026-08-05 da AD come IOC di Sophos campagna N-Central
+37.153.90.88 # Aggiunto in data 2026-08-05 da AD come IOC di Sophos campagna N-Central
+92.118.112.181 # Aggiunto in data 2026-08-05 da AD come IOC di Sophos campagna N-Central
+68.235.46.214 # Aggiunto in data 2026-08-05 da AD come IOC di Sophos campagna N-Central
