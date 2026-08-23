@@ -1,0 +1,30 @@
+name: Update Apple Relay Feed
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # 1 volta ogni 24h (1440 min) alle 03:00 UTC
+  workflow_dispatch:      # Pulsante per run manuale
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Download, Parse & Validate Apple CIDRs
+        run: |
+          curl -s -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)" https://mask-api.icloud.com/egress-ip-ranges.csv | \
+          awk -F',' '{print $1}' | \
+          grep -E '^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/[0-9]+' | \
+          sort -u > apple_relay.txt
+
+      - name: Commit and Push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add apple_relay.txt
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update Apple Relay IP list [1440m]" && git push)
