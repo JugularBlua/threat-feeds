@@ -477,3 +477,4 @@ csic.hu                                  #IR719720 Aggiunto  in data 2026-07-09 
 s2.adform.net                            #Aggiunto in data 2026-08-04 da AD come IOC come sito potenzialmente malevolo (gia bloccato da EDR)
 supports-wondrous-site-103643.webflow.io #Aggiunto in data 2026-08-05 da AD come IOC come sito potenzialmente malevolo
 magafurla.com                            #Aggiunto in data 2026-08-11 IR731736
+timelevel12.com                          #Aggiunto in data 2026-09-03 da AD come IOC come sito potenzialmente malevolo campagna ClickFix (Netscope)
