@@ -1075,3 +1075,4 @@
 85.215.173.245 # IOC Incident WordPress 24-08-2026
 181.215.182.177 # IOC Incident WordPress 24-08-2026
 87.106.217.70 # IOC Incident WordPress 24-08-2026
+150.228.93.108 # Added 2026-09-04 via IOC-check (AbuseIPDB: 25)
