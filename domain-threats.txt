@@ -481,3 +481,4 @@ timelevel12.com                          #Aggiunto in data 2026-09-03 da AD come
 itnow.dev                                #Aggiunto in data 2026-09-04 da AD come IOC TerminalFix (fonte Microsoft)
 bestsocialmedianewspapper.com            #Aggiunto in data 2026-09-04 da AD come IOC TerminalFix (fonte Microsoft)
 offlineupdater.com                       #Aggiunto in data 2026-09-04 da AD come IOC TerminalFix (fonte Microsoft)
+livedashboardkit.info                    #Aggiunto in data 2026-09-07 da AD come IOC su compromissione sito www.impresalavoro[.]eu 
