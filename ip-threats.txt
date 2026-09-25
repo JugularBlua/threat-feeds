@@ -1076,3 +1076,4 @@
 181.215.182.177 # IOC Incident WordPress 24-08-2026
 87.106.217.70 # IOC Incident WordPress 24-08-2026
 150.228.93.108 # Added 2026-09-04 via IOC-check (AbuseIPDB: 25)
+101.57.110.237  # [DSD-3877576][Bluarancio] Classe Media - Login da IP malevolo
