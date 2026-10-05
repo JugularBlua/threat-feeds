@@ -486,3 +486,4 @@ impresalavoro.eu                         #Aggiunto in data 2026-09-07 da AD come
 protezione-minori.net                    #Aggiunto in data 2026-09-14 da segnalazione Pec di Presilla RIR Marche.
 aic.global                               #Aggiunto in data 2026-09-18 da AD come IOC da fonte CTI
 w1msgym0es.bakeshughes.com               #Aggiunto in data 2026-09-18 da AD come dominio classificato come Phishing acclarato
+gov.agenzia.it                           #https://smconsole.bluarancio.com/Incident/Edit/IR746438/
