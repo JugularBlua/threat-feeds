@@ -1077,3 +1077,6 @@
 150.228.93.108 # Added 2026-09-04 via IOC-check (AbuseIPDB: 25)
 101.57.110.237  # [DSD-3877576][Bluarancio] Classe Media - Login da IP malevolo
 158.47.218.49 # Added 2026-10-17 via IOC-check (AbuseIPDB: 29)
+134.199.154.64	# AD: php2shell: Server C2 per Potassio, una probabile variante di Mirai
+117.55.202.115  # AD: php2shell: Server C2 per Potassio, una probabile variante di Mirai
+92.118.112.100  # AD: php2shell: Hosting di payload associato all'attività di sfruttamento di PHP2Shell
