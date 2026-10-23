@@ -1080,3 +1080,4 @@
 134.199.154.64	# AD: php2shell: Server C2 per Potassio, una probabile variante di Mirai
 117.55.202.115  # AD: php2shell: Server C2 per Potassio, una probabile variante di Mirai
 92.118.112.100  # AD: php2shell: Hosting di payload associato all'attività di sfruttamento di PHP2Shell
+91.81.155.44 # Added 2026-10-23 via IOC-check (AbuseIPDB: 47)
