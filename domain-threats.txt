@@ -487,3 +487,6 @@ protezione-minori.net                    #Aggiunto in data 2026-09-14 da segnala
 aic.global                               #Aggiunto in data 2026-09-18 da AD come IOC da fonte CTI
 w1msgym0es.bakeshughes.com               #Aggiunto in data 2026-09-18 da AD come dominio classificato come Phishing acclarato
 gov.agenzia.it                           #https://smconsole.bluarancio.com/Incident/Edit/IR746438/
+hackattackkaboom.botlesscucks.st	       #Aggiunto in data 2026-10-23 da AD dominio malware utilizzato dal payload correlato a PHP2Shell
+hik.gettingheadfromduckysmom.st	         #Aggiunto in data 2026-10-23 da AD dominio	Potassium integrata nel payload relativo a PHP2Shell.
+tuono.diodeltuono.st	                   #Aggiunto in data 2026-10-23 da ADN dominio contattato da un campione di malware correlato a PHP2Shell
