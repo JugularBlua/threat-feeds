@@ -492,3 +492,4 @@ hik.gettingheadfromduckysmom.st	         #Aggiunto in data 2026-10-23 da AD domi
 fbspa.com                                #Aggiunto in data 2026-11-17 da https://smconsole.bluarancio.com/Incident/Edit/IR775802
 tuono.diodeltuono.st	                   #Aggiunto in data 2026-10-23 da ADN dominio contattato da un campione di malware correlato a PHP2Shell
 ns.mo7sen.dev                            #Aggiunto in data 2026-11-12 da SP dominio contattato da un campione di malware correlato a ScreenConnect
+bfspa.org                                #Aggiunto in data 2026-20-11 da AD su richiesta di CAI (IR778191)
