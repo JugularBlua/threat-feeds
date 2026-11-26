@@ -1085,3 +1085,4 @@
 169.155.232.158 # Added 2026-11-11 via IOC-check (AbuseIPDB: 32)
 185.99.255.28 # (malicious ScreenConnect installer host)
 2.37.204.60 # Added 2026-11-18 via IOC-check (AbuseIPDB: 26)
+109.52.196.217 # Added 2026-11-26 via IOC-check (AbuseIPDB: 25)
